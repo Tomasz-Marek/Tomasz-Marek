@@ -18,7 +18,7 @@ I enjoy building things that connect **software, electronics, and mechanics** in
 
 ## 🧩 Current Project — Engineering Thesis
 
-### [🚗 Autonomous Car Platform](https://github.com/<YourGitHubUsername>/Autonomus_car)
+### [🚗 Autonomous Car Platform](https://github.com/<TomciQ03>/Autonomus_car)
 
 A Python-based computer vision project that detects **road lanes** and **traffic signs** using **OpenCV** and **NumPy**,  
 built completely **without machine learning** — only classical mathematical image analysis.
@@ -34,7 +34,7 @@ built completely **without machine learning** — only classical mathematical im
 Python • C++ • C  
 
 **Libraries / Frameworks:**  
-OpenCV • NumPy • Matplotlib  
+OpenCV • NumPy  
 
 **Tools:**  
 VS Code • Git • GitHub • Jupyter Notebook  
@@ -55,7 +55,7 @@ I value curiosity, continuous learning, and building projects that actually *do 
 ## 📫 Connect with Me
 
 - 📧 [your.email@example.com](mailto:tomaszmarek3@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/tomasz-marek-842a8a336))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomasz-marek-842a8a336)  
 - 🧠 [My Projects on GitHub](https://github.com/<YourGitHubUsername>?tab=repositories)
 
 ---
