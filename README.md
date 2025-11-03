@@ -18,7 +18,7 @@ I enjoy building things that connect **software, electronics, and mechanics** in
 
 ## 🧩 Current Project — Engineering Thesis
 
-## [🚗 Autonomous Car Platform](https://github.com/TomciQ03/Autonomus_car)
+## [🚗 Autonomous Car Platform](https://github.com/Tomasz-Marek/Autonomus_car)
 
 
 A Python-based computer vision project that detects **road lanes** and **traffic signs** using **OpenCV** and **NumPy**,  
@@ -57,7 +57,7 @@ I value curiosity, continuous learning, and building projects that actually *do 
 
 - 📧 [tomaszmarek3@gmail.com](mailto:tomaszmarek3@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomasz-marek-842a8a336)  
-- 🧠 [My Projects on GitHub](https://github.com/TomciQ03?tab=repositories)
+- 🧠 [My Projects on GitHub](https://github.com/Tomasz-Marek?tab=repositories)
 
 ---
 
